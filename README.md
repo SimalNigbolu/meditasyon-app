@@ -33,12 +33,11 @@ Favoriler:
 Dinleme:
 ![Dinleme](screenshots/dinleme.png)
 
-Hesabım::
+Hesabım:
 ![Hesabım](screenshots/hesabim.png)
 
 Kategori:
 ![Kategori](screenshots/kategori.png)
-
 
 Menü:
 ![Menü](screenshots/kaydirilabilir-menü.png)
