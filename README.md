@@ -63,3 +63,10 @@ Meditasyon App, kullanıcıların ruh haline uygun müzikleri kolayca bulup dinl
 
 ---
 
+ HEAD
+=======
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+İlk yükleme ve README çakışması çözüldü
+>>>>>>> 29b79fa (Update README and add screenshots)
