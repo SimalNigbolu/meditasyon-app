@@ -20,10 +20,10 @@ Kullanıcıların rahatlamasına, meditasyon yapmasına ve kendini iyi hissetmes
 | Ana Sayfa | Favoriler | Kategori |
 | --------- | --------- | -------- |
 
-<img src="screenshots/Onboarding.png" alt="Onboarding" width="200"/>
+<img src="screenshots/Onboarding.png" alt="Onboarding" width="200"/>  |  <img src="screenshots/giris-ekrani.png" alt="Giris" width="200"/>
 
 
-<img src="screenshots/giris-ekrani.png" alt="Giris" width="200"/>
+
 
   
 <img src="screenshots/ana-sayfa.png" alt="Ana Sayfa" width="200"/>
