@@ -19,31 +19,32 @@ Kullanıcıların rahatlamasına, meditasyon yapmasına ve kendini iyi hissetmes
 
 
 Onboarding:
-![Onboarding](screenshots/Onboarding.png)
+<img src="screenshots/Onboarding.png" alt="Onboarding" width="400"/>
 
 Giris:
-![Giris](screenshots/giris-ekrani.png)
+<img src="screenshots/giris-ekrani.png" alt="Giris" width="400"/>
 
 Ana Sayfa:  
-![Ana Sayfa](screenshots/ana-sayfa.png)
+<img src="screenshots/ana-sayfa.png" alt="Ana Sayfa" width="400"/>
 
 Favoriler:  
-![Favoriler](screenshots/favoriler.png)
+<img src="screenshots/favoriler.png" alt="Favoriler" width="400"/>
 
 Dinleme:
-![Dinleme](screenshots/dinleme.png)
+<img src="screenshots/dinleme.png" alt="Dinleme" width="400"/>
 
 Hesabım:
-![Hesabım](screenshots/hesabim.png)
+<img src="screenshots/hesabim.png" alt="Hesabım" width="400"/>
 
 Kategori:
-![Kategori](screenshots/kategori.png)
+<img src="screenshots/kategori.png" alt="Kategori" width="400"/>
 
 Menü:
-![Menü](screenshots/kaydirilabilir-menü.png)
+<img src="screenshots/kaydirilabilir-menü.png" alt="Menü" width="400"/>
 
 Rastgele Müzik Çalar:  
-![Rastgele Müzik Çalar](screenshots/rastgele-müzik.png)
+<img src="screenshots/rastgele-müzik.png" alt="Rastgele Müzik Çalar" width="400"/>
+
 
 
 
