@@ -17,32 +17,33 @@ Kullanıcıların rahatlamasına, meditasyon yapmasına ve kendini iyi hissetmes
 
 ## Uygulama Ekranları
 
+| Ana Sayfa | Favoriler | Kategori |
+| --------- | --------- | -------- |
 
-Onboarding:
 <img src="screenshots/Onboarding.png" alt="Onboarding" width="200"/>
 
-Giris:
+
 <img src="screenshots/giris-ekrani.png" alt="Giris" width="200"/>
 
-Ana Sayfa:  
+  
 <img src="screenshots/ana-sayfa.png" alt="Ana Sayfa" width="200"/>
 
-Favoriler:  
+ 
 <img src="screenshots/favoriler.png" alt="Favoriler" width="200"/>
 
-Dinleme:
+
 <img src="screenshots/dinleme.png" alt="Dinleme" width="200"/>
 
-Hesabım:
+
 <img src="screenshots/hesabim.png" alt="Hesabım" width="200"/>
 
-Kategori:
+
 <img src="screenshots/kategori.png" alt="Kategori" width="200"/>
 
-Menü:
+
 <img src="screenshots/kaydirilabilir-menü.png" alt="Menü" width="200"/>
 
-Rastgele Müzik Çalar:  
+  
 <img src="screenshots/rastgele-müzik.png" alt="Rastgele Müzik Çalar" width="200"/>
 
 
